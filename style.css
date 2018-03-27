@@ -1,0 +1,12 @@
+h1 {
+  font-size: 100px;
+}
+img {
+  height: 150px;
+  width: auto;
+
+}
+body {
+  text-align: center;
+  background-color: lightgray;
+}
